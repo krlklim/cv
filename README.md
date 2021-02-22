@@ -13,7 +13,7 @@ My craving for technology and simplification daily tasks helped me to understand
 
 ## Experience ##
 
-**Software Engineer** (February 2019 - present)\
+**Software Engineer** (February 2019 - November 2020)\
 *iTechArt Group* and *Softensity*
 
 *Bradley Morris*. A military recruiting app.
@@ -94,7 +94,8 @@ A learning process was focused on the pair programming, OOP concepts, TDD.
 
 **English** - Upper-Intermediate level\
 **German** - Beginner level\
-**Russian** - Native
+**Russian** - Native\
+**Belarusian** - Native
 
 ## Interests ##
 
