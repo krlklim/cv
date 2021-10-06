@@ -1,17 +1,48 @@
 # Kiryl Klimovich #
 
 [Experience](#experience) | [Education](#education) | [Skills](#skills) | [LinkedIn](http://www.linkedin.com/in/krlklim)
+| [Contacts](#contacts)
 
 My craving for technology and simplification daily tasks helped me to understand that programming is a wonderful world with great opportunities, where I am happy to apply all my knowledge and grow.
 
 ## Summary ##
 
-- 3 years of experience in software development.
+- 3+ years of experience in software development.
 - Have skills in back-end and front-end.
 - Understand OOP concepts, love and follow in practice the KISS/DRY/SOLID principles.
 - Write clean code using TDD/BDD techniques and well-documented commits.
 
 ## Experience ##
+
+**Software Engineer** (March 2021 - August 2021)\
+*Wellnuts Ltd.*
+
+*Megafon "Gennady"*
+- Worked with api's of Megafon.
+- Worked with admin side and fix it; add some features with api.
+- Worked with data.
+
+Technologies: PostgreSQL, Ruby 2.6+, Ruby on Rails, GraphQL
+
+*In-ChargeUS*
+- Worked with backend side: features with chargers, fix bugs.
+- Provided code quality with tests.
+- Worked with DB.
+- Worked with api.
+
+Technologies: Elixir, GraphQL(Absinthe), PostgreSQL
+
+**Backend Software Engineer** (November 2020 - August 2021)\
+*Freelance* and *Digital Classifieds*
+
+*bina.az*, *boss.az*, *tap.az*, *turbo.az*.  Four projects of Azerbaijan
+product company. The systems about rent houses, cars etc.
+
+- Worked with api's of Azerbaijan bank systems.
+- Fix bugs.
+- Write and fix tests, especially capybara and RSpec.
+
+Technologies: PostgreSQL, Ruby 2.4+, Ruby on Rails 4(5)
 
 **Software Engineer** (February 2019 - November 2020)\
 *iTechArt Group* and *Softensity*
@@ -74,29 +105,41 @@ Technologies: PostgreSQL, Ruby 2.4, Ruby on Rails, ReactJS.
 
 A learning process was focused on the pair programming, OOP concepts, TDD.
 
+**Ruby Students Lab** (approximately 2017-2018)\
+*An intensive 4-months full-time web-development course.*
+
+Programming with Ruby and RoR, some React stuffs, OOP concepts, tests etc.
+
 **Belarusian State University of Informatics and Radioelectronics** (September 2016 - June 2020)\
 *Faculty of Engineering and Economics, Software engineer-economist*
 
 ## Skills ##
 
 **Operating Systems**: Linux (Ubuntu), Mac OS X\
-**Programming Languages**: Ruby, JavaScript\
-**Frameworks and Libraries**: Ruby on Rails, jQuery, React\
+**Programming Languages**: Ruby, JavaScript, React, Elixir\
+**Frameworks and Libraries**: Ruby on Rails, jQuery, React, Phoenix\
 **Methodologies**: Test-driven Development, Responsive Web design, Agile, Extreme Programming\
 **Databases**: PostgreSQL, MySQL, Redis\
 **TDD/BDD**: RSpec, Capybara\
 **Background Processing**: Sidekiq\
 **Servers Configuration**: Nginx\
 **Version Control Systems**: Git\
-**CI**: Travis CI, CircleCI, Jenkins, Houndci
+**CI**: Travis CI, CircleCI, Jenkins, HoundCI
 
 ## Languages ##
 
 **English** - Upper-Intermediate level\
-**German** - Beginner level\
 **Russian** - Native\
 **Belarusian** - Native
 
 ## Interests ##
 
-Foreign languages, music, art, perfomances, design, creative coding.
+Foreign languages, music, art, perfomances, design, creative coding, and so much
+else, just meet me.
+
+## Contacts ##
+
+Liked me? Contact me!
+
+telegram: [@krlklim](https://t.me/krlklim) \
+e-mail: [kirylklimovich@gmail.com](mailto:kirylklimovich@gmail.com?subject=[GitHub%20Job%20Proposal]%20Hey!%20I%20have%20a%20proposal%20to%20you!)
