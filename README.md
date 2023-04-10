@@ -7,12 +7,27 @@ My craving for technology and simplification daily tasks helped me to understand
 
 ## Summary ##
 
-- 3+ years of experience in software development.
+- 4+ years of experience in software development.
 - Have skills in back-end and front-end.
 - Understand OOP concepts, love and follow in practice the KISS/DRY/SOLID principles.
 - Write clean code using TDD/BDD techniques and well-documented commits.
+- Location: Turkey
 
 ## Experience ##
+
+**Software Developer** (November 2021 - present)\
+*Zillow Group, Inc.*
+
+*StreetEasy*
+- Worked with api's
+- Worked with payment APIs
+- Worked with email APIs
+- Bug fixes
+- Creating jobs, scripts, features
+- Codereviews
+- Test coverage
+
+Technologies: Ruby, Ruby on Rails, JavaScript, React, MySQL, PostgreSQL, ElasticSearch, GraphQL, Rspec
 
 **Software Engineer** (March 2021 - August 2021)\
 *Wellnuts Ltd.*
@@ -43,6 +58,14 @@ product company. The systems about rent houses, cars etc.
 - Write and fix tests, especially capybara and RSpec.
 
 Technologies: PostgreSQL, Ruby 2.4+, Ruby on Rails 4(5)
+
+**Teacher** (August 2020 - May 2022)\
+*Belarusian State University of Informatics and Radioelectronics (Part-time)*
+
+- Objected-oriented programming.
+- High math.
+- Systems and technologies of intelligent data processing.
+- Data bases.
 
 **Software Engineer** (February 2019 - November 2020)\
 *iTechArt Group* and *Softensity*
@@ -111,7 +134,10 @@ A learning process was focused on the pair programming, OOP concepts, TDD.
 Programming with Ruby and RoR, some React stuffs, OOP concepts, tests etc.
 
 **Belarusian State University of Informatics and Radioelectronics** (September 2016 - June 2020)\
-*Faculty of Engineering and Economics, Software engineer-economist*
+*Faculty of Engineering and Economics, Software engineer, economist · Bachelor degree*
+
+**Bahcesehir University** (September 2022 - September 2024)\
+*MTech, Information Technology, Master of technology · Master degree*
 
 ## Skills ##
 
@@ -124,17 +150,19 @@ Programming with Ruby and RoR, some React stuffs, OOP concepts, tests etc.
 **Background Processing**: Sidekiq\
 **Servers Configuration**: Nginx\
 **Version Control Systems**: Git\
-**CI**: Travis CI, CircleCI, Jenkins, HoundCI
+**CI**: Travis CI, CircleCI, Jenkins, HoundCI, Drone
 
 ## Languages ##
 
-**English** - Upper-Intermediate level\
+**English** - Professional working proficiency\
+**Turkish** - Limited working proficiency\
+**Ukranian** - Full professional proficiency\
 **Russian** - Native\
 **Belarusian** - Native
 
 ## Interests ##
 
-Foreign languages, music, art, perfomances, design, creative coding, and so much
+Foreign languages, music, art, performances, design, creative coding, and so much
 else, just meet me.
 
 ## Contacts ##
