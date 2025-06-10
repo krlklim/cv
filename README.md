@@ -7,7 +7,8 @@ My craving for technology and simplification daily tasks helped me to understand
 
 ## Summary ##
 
-- 4+ years of experience in software development.
+- 6+ years of experience in software development.
+- 2 years of experience as a professional teacher. 
 - Have skills in back-end and front-end.
 - Understand OOP concepts, love and follow in practice the KISS/DRY/SOLID principles.
 - Write clean code using TDD/BDD techniques and well-documented commits.
