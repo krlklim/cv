@@ -7,12 +7,11 @@ My craving for technology and simplification daily tasks helped me to understand
 
 ## Summary ##
 
-- 6+ years of experience in software development.
+- 7+ years of experience in software development.
 - 2 years of experience as a professional teacher. 
 - Have skills in back-end and front-end.
 - Understand OOP concepts, love and follow in practice the KISS/DRY/SOLID principles.
 - Write clean code using TDD/BDD techniques and well-documented commits.
-- Location: Turkey
 
 ## Experience ##
 
@@ -143,13 +142,18 @@ Programming with Ruby and RoR, some React stuffs, OOP concepts, tests etc.
 ## Skills ##
 
 **Operating Systems**: Linux (Ubuntu), Mac OS X\
-**Programming Languages**: Ruby, JavaScript, React, Elixir\
+**Programming Languages**: Ruby, JavaScript, React, Elixir, Python\
 **Frameworks and Libraries**: Ruby on Rails, jQuery, React, Phoenix\
-**Methodologies**: Test-driven Development, Responsive Web design, Agile, Extreme Programming\
+**API Technologies**: REST API, GraphQL\
+**Testing**: RSpec, Capybara, Test-Driven Development (TDD), Behavior-Driven Development (BDD)\
+**Background Processing & Messaging**: Sidekiq, Resque, Kafka\
+**Development Practices**: Agile, Scrum, Extreme Programming (XP), Code Review, Pair Programming, Responsive Web Design\
 **Databases**: PostgreSQL, MySQL, Redis\
-**TDD/BDD**: RSpec, Capybara\
-**Background Processing**: Sidekiq\
+**Cloud & Storage**: AWS S3\
+**Containers & Orchestration**: Docker, Kubernetes\
+**Architecture & Design**: MVC Architecture, RESTful Services, Microservices, Service Objects, Background Job Processing\
 **Servers Configuration**: Nginx\
+**Monitoring & Debugging**: Application Logging, Performance Optimization, SQL Query Analysis\
 **Version Control Systems**: Git\
 **CI**: Travis CI, CircleCI, Jenkins, HoundCI, Drone
 
